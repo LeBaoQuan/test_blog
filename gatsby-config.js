@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `CHẠY LUNG TUNG`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Trương Hoàng Huyền Minh`,
+      summary: `một con cánh cụt nhỏ đang bay cao và khám phá thế giới xunh quanh`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      facebook: `minhmuononeverland`,
     },
   },
   plugins: [
